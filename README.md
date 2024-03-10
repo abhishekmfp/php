@@ -22,15 +22,23 @@ we create a database name "db" and a table of naem "signup"
 #we first create the index.php followed by signup  , login and logout.php
 
 ## Also uses hashing while storing the password . 
-# Give the link to![logout](https://github.com/abhishekmfp/php/assets/146539018/f24d42da-1089-4c37-94c8-952c608ec4c5)
- reset password ![database](https://github.com/abhishekmfp/php/assets/146539018/2382e22b-85f4-4fca-9971-3637c5d8753f)
+# Images
 
 ![signup](https://github.com/abhishekmfp/php/assets/146539018/026fe80b-9c8b-49cd-a46c-56a134e56002)
+
+ ![database](https://github.com/abhishekmfp/php/assets/146539018/2382e22b-85f4-4fca-9971-3637c5d8753f)
+
+ ![login](https://github.com/abhishekmfp/php/assets/146539018/79b95b79-6085-4459-8a43-0decb48e4628)
+
+
+![logout](https://github.com/abhishekmfp/php/assets/146539018/f24d42da-1089-4c37-94c8-952c608ec4c5)
+
+
 ![forgot password](https://github.com/abhishekmfp/php/assets/146539018/57814c36-7bd8-45d1-a3a2-389c6c05f151)
 
-![Web Page Demo]()
 
-![login](https://github.com/abhishekmfp/php/assets/146539018/79b95b79-6085-4459-8a43-0decb48e4628)
+
+
 
     
   
